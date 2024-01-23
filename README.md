@@ -50,4 +50,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - [KM Realty Group LLC, Chicago blog](https://kmrealtygroup.net) Blog Improvements
 - [Green Refrigeration LLC, Florida](https://www.greenrefrigerationllc.com) Blog Improvements
 - [https://afktrailerlease.com](https://afktrailerlease.com) Blog Improvements
-- [https://afktrailerlease.com](https://www.puertoricoandtheworld.com) Web Improvement
+- [https://www.puertoricoandtheworld.com](https://www.puertoricoandtheworld.com) Web Improvement
