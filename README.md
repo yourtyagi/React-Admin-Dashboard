@@ -48,6 +48,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 **Companies:**
 - [KM Realty Group LLC, Chicago blog](https://kmrealtygroup.net) Blog Improvements
-- [Green Refrigeration LLC, Florida](https://www.greenrefrigerationllc.com/)https://www.greenrefrigerationllc.com/ Blog Improvements
-- [https://afktrailerlease.com](https://afktrailerlease.com)https://afktrailerlease.com Blog Improvements
-- [https://afktrailerlease.com](http://www.puertoricoandtheworld.com/)http://www.puertoricoandtheworld.com Web Improvement
+- [Green Refrigeration LLC, Florida](https://www.greenrefrigerationllc.com) Blog Improvements
+- [https://afktrailerlease.com](https://afktrailerlease.com) Blog Improvements
+- [https://afktrailerlease.com](https://www.puertoricoandtheworld.com) Web Improvement
